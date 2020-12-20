@@ -11,3 +11,5 @@ Hi there. Here is some of my sites that i made when i've been traning coding.
 
 ### 4) Небольшой опыт с админкой, графиками в js <https://youtu.be/Rs_OUskkmEU>
 ссылка на репозиторий - <https://github.com/Proleps/dashboarfGraph_adminBro>
+
+На все проекты, кроме игры жизнь можно вщглянуть по ссылкам в соотвутствующих репозиториях
